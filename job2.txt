@@ -1,1 +1,5 @@
 i am job2
+testting
+updating github
+pushing it into master file
+i am updating job2,and it should trigger jenkins automatically
